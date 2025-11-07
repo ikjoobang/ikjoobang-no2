@@ -29,3 +29,8 @@ logs/
 
 # Wrangler
 .wrangler/
+
+# Netlify
+.netlify/
+.netlify
+netlify/functions-dist/
